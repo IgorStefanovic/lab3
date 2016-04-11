@@ -1,0 +1,10 @@
+-batch 
+-create vga_p 
+-ver 1.00.a 
+-dir "C:\materija\ra1802013\lprs2\Vezba3\project" 
+-lang vhdl 
+-bus axi4lite s 
+-reg 32 
+-xps 
+-ise 
+-driver 

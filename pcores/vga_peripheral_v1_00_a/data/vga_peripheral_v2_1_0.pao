@@ -1,0 +1,10 @@
+##############################################################################
+## Filename:          C:/materija/IgorRA83-2013/LPRS2/lab3/pcores/vga_peripheral_v1_00_a/data/vga_peripheral_v2_1_0.pao
+## Description:       Peripheral Analysis Order
+## Date:              Thu Apr 07 13:38:33 2016 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+lib proc_common_v3_00_a  all 
+lib axi_lite_ipif_v1_01_a  all 
+lib vga_peripheral_v1_00_a user_logic vhdl
+lib vga_peripheral_v1_00_a vga_peripheral vhdl

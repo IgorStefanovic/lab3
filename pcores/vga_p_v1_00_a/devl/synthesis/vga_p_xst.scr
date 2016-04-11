@@ -1,0 +1,12 @@
+run
+-opt_level 2
+-opt_mode speed
+-ifmt mixed
+-ifn "C:\materija\ra1802013\lprs2\Vezba3\project\pcores\vga_p_v1_00_a\devl\synthesis\vga_p_xst.prj"
+-top vga_p
+-p virtex6
+-ofn "C:\materija\ra1802013\lprs2\Vezba3\project\pcores\vga_p_v1_00_a\devl\synthesis\vga_p_xst.ngc"
+-iobuf NO
+-rtlview YES
+-hierarchy_separator /
+-work_lib vga_p_v1_00_a

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="C:\materija\ra1802013\lprs2\Vezba3\project\SDK\SDK_workspace\project_hw_platform\system_bd.bmm" key="project_hw_platform-bmmFile"/>
+	<item value="C:\materija\ra1802013\lprs2\Vezba3\project\SDK\SDK_workspace\project_hw_platform\system.bit" key="project_hw_platform-bitFile"/>
+	<item value="bootloop" key="project_hw_platform-microblaze_0-initElf"/>
+</section>

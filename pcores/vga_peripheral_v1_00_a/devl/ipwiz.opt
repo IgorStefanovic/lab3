@@ -1,0 +1,10 @@
+-batch 
+-create vga_peripheral 
+-ver 1.00.a 
+-dir "C:\materija\IgorRA83-2013\LPRS2\lab3" 
+-lang vhdl 
+-bus axi4lite s 
+-reg 32 
+-xps 
+-ise 
+-driver 

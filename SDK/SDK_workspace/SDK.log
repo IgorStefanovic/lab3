@@ -1,0 +1,96 @@
+18:03:35.173 INFO  - Processing command line option -hwspec C:\materija\ra1802013\lprs2\Vezba3\project\SDK\SDK_Export\hw\system.xml. 
+12:38:54.525 INFO  - Processing command line option -hwspec C:\materija\ra1802013\lprs2\Vezba3\project\SDK\SDK_Export\hw\system.xml. 
+12:41:03.369 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+12:42:03.463 INFO  - FPGA configured successfully with bitstream "C:/materija/ra1802013/lprs2/Vezba3/project/SDK/SDK_workspace/project_hw_platform/download.bit" 
+12:43:16.263 INFO  - System reset is completed. 
+12:47:15.960 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to connect to Xilinx hw_server. Check if the
+    hw_server is running and correct TCP port is used.
+ 
+12:47:34.861 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to connect to Xilinx hw_server. Check if the
+    hw_server is running and correct TCP port is used.
+ 
+12:48:36.019 ERROR - Checking FPGA configuration failed..Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+12:48:40.933 ERROR - Checking FPGA configuration failed..Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+12:48:48.920 ERROR - Checking FPGA configuration failed..Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+12:48:53.881 ERROR - Checking FPGA configuration failed..Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+12:48:58.810 ERROR - Checking FPGA configuration failed..Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+12:48:58.810 ERROR - Checking FPGA configuration failed..Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+12:49:45.532 INFO  - Time out for XMD transaction is 60000
+If you want to increase the timeout value, goto Windows-> Preferences -> Xilinx SDK -> XMD Startup 
+12:49:45.532 ERROR - Timeout occured while waiting to get reply for command "xfpga_isconfigured" 
+12:49:45.532 ERROR - Checking FPGA configuration failed.. 
+12:49:50.275 INFO  - Time out for XMD transaction is 60000
+If you want to increase the timeout value, goto Windows-> Preferences -> Xilinx SDK -> XMD Startup 
+12:49:50.275 ERROR - Timeout occured while waiting to get reply for command "xfpga_isconfigured" 
+12:49:50.275 ERROR - Checking FPGA configuration failed.. 
+12:50:32.048 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to connect to Xilinx hw_server. Check if the
+    hw_server is running and correct TCP port is used.
+ 
+12:51:20.456 ERROR - Checking FPGA configuration failed..Connection to Board Failed
+
+
+    Failed to connect to Xilinx hw_server. Check if the
+    hw_server is running and correct TCP port is used.
+ 
+12:59:34.825 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+13:20:59.933 INFO  - Processing command line option -hwspec C:\materija\ra1802013\lprs2\Vezba3\project\SDK\SDK_Export\hw\system.xml. 
+13:21:00.869 INFO  - The hardware specification for project 'project_hw_platform' is different from C:\materija\ra1802013\lprs2\Vezba3\project\SDK\SDK_Export\hw\system.xml. 
+13:21:00.885 INFO  - Copied contents of C:\materija\ra1802013\lprs2\Vezba3\project\SDK\SDK_Export\hw\system.xml into \project_hw_platform\system.xml. 
+13:21:00.885 INFO  - Copied contents of C:\materija\ra1802013\lprs2\Vezba3\project\SDK\SDK_Export\hw\system.bit into \project_hw_platform\system.bit. 
+13:21:00.885 INFO  - Copied contents of C:\materija\ra1802013\lprs2\Vezba3\project\SDK\SDK_Export\hw\system_bd.bmm into \project_hw_platform\system_bd.bmm. 
+13:21:01.446 INFO  - Synchronizing projects in the workspace with the hardware platform specification changes. 
+13:21:02.507 INFO  - Updating MSS for Board Support Package Project: hello_world_bsp.
+		 The following driver assignments were removed:
+			Peripheral Instance: dip_switches, driver: gpio_v3_01_a.
+			Peripheral Instance: leds, driver: gpio_v3_01_a.
+		 The following new driver assignments were made:
+			Peripheral Instance: my_peripheral_0, driver: generic_v1_00_a.
+ 
+13:21:03.396 INFO  - Updating hardware inferred compiler options for hello_world. 
+13:21:03.412 INFO  - Clearing existing target manager status. 
+13:31:12.144 INFO  - FPGA configured successfully with bitstream "C:/materija/ra1802013/lprs2/Vezba3/project/SDK/SDK_workspace/project_hw_platform/download.bit" 
+13:43:41.948 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  

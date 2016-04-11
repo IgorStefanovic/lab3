@@ -1,0 +1,6 @@
+vhdl work "../../hdl/vhdl/vga_sync.vhd"
+vhdl work "../../hdl/vhdl/vga.vhd"
+vhdl work "../../hdl/vhdl/text_mem.vhd"
+vhdl work "../../hdl/vhdl/graphics_mem.vhd"
+vhdl work "../../hdl/vhdl/char_rom.vhd"
+vhdl work "../../hdl/vhdl/vga_top.vhd"
